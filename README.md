@@ -15,7 +15,7 @@
 - 💞️ Project join 
   - 記載していません。
 - 📫 My contact
-  - mail: y.motokawa.w[@]gmail.com 
+  - mail: y.motokawa.w[@]gmail[.]com 
   - message : https://forms.gle/mhhgdCGJwNWjAFD27
 
 <!---
