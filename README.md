@@ -3,10 +3,10 @@
   - Backend Enginner / Programer
   - Used
     - php
-      - laravel (1y)
-      - fuelphp (1y)
-      - cakephp (1y)
-      - drupal (0.8y)
+      - laravel 
+      - fuelphp 
+      - cakephp
+      - drupal
 - 🌱 Study now
   - React
   - Python 
@@ -15,6 +15,7 @@
 - 💞️ Project join 
   - 記載していません。
 - 📫 My contact
+  - mail: y.motokawa.w+githubrm@gmail.com 
   - message : https://forms.gle/mhhgdCGJwNWjAFD27
 
 <!---
